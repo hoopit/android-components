@@ -40,7 +40,7 @@ ext {
 }
 
 ext {
-    firebase_bom_version = "24.0.2"
+    firebase_bom_version = "28.2.1"
     mavenGradleVersion = "2.1"
     timber_version = "4.7.1"
 }
